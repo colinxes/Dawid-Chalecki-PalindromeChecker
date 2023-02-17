@@ -1,0 +1,15 @@
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\bin\Debug\net6.0\PalindromeChcecker.exe
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\bin\Debug\net6.0\PalindromeChcecker.deps.json
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\bin\Debug\net6.0\PalindromeChcecker.runtimeconfig.json
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\bin\Debug\net6.0\PalindromeChcecker.dll
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\bin\Debug\net6.0\PalindromeChcecker.pdb
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\obj\Debug\net6.0\PalindromeChcecker.csproj.AssemblyReference.cache
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\obj\Debug\net6.0\PalindromeChcecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\obj\Debug\net6.0\PalindromeChcecker.AssemblyInfoInputs.cache
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\obj\Debug\net6.0\PalindromeChcecker.AssemblyInfo.cs
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\obj\Debug\net6.0\PalindromeChcecker.csproj.CoreCompileInputs.cache
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\obj\Debug\net6.0\PalindromeChcecker.dll
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\obj\Debug\net6.0\refint\PalindromeChcecker.dll
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\obj\Debug\net6.0\PalindromeChcecker.pdb
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\obj\Debug\net6.0\PalindromeChcecker.genruntimeconfig.cache
+C:\Users\chalecki\source\repos\PalindromeChcecker\PalindromeChcecker\obj\Debug\net6.0\ref\PalindromeChcecker.dll
